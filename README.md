@@ -20,13 +20,15 @@ pip install -r requirements.txt
 
 ## 程序运行方式
 
-推荐使用 Jupyter Notebook 打开教程文件，在命令行中运行
+教程的路径在 [这里](./Tutorial.ipynb)
+
+推荐使用 Jupyter Notebook 打开`Tutorial.ipynb`教程文件，在命令行中运行
 
 ```shell script
 jupyter notebook
 ```
 
-然后浏览器里会有当前目录的所有文件，打开 Tutorial.ipynb，然后跟随教程一个个执行就可以了。
+然后浏览器里会有当前目录的所有文件，打开 `Tutorial.ipynb`，然后跟随教程一个个执行就可以了。
 
 或者直接运行代码
 
