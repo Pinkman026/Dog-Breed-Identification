@@ -2,6 +2,6 @@ torchvision==0.4.0+cu92
 matplotlib==3.1.1
 torch==1.2.0+cu92
 pandas==0.25.0
-numpy==1.17.0
+numpy==1.22.0
 Pillow==6.1.0
 scikit_learn==0.21.3
